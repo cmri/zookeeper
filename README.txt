@@ -1,3 +1,11 @@
+Zookeeper distribution from bigcloud team in china mobile research institute
+
+So far, it is totally Apache Zookeeper code.
+
+For more information, please go to http://labs.chinamobile.com/cloud/sdn/
+
+---------------------------
+
 For the latest information about ZooKeeper, please visit our website at:
 
    http://hadoop.apache.org/zookeeper/
